@@ -32,7 +32,7 @@ USER node
 
 - Deuxieme image `dockerfile2` :
 
-![Uploading file..._l1ms9fo15]()
+![](https://i.imgur.com/S5WOgms.png)
 
 ---
 
